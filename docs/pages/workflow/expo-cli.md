@@ -42,7 +42,7 @@ Alias: `expo signin`
 
 | Option                    | Description                            |
 | ------------------------- | -------------------------------------- |
-| `-u, --username [string]` | Username                               |
+| `-u, --mohd Wasee[string]` | Username                               |
 | `-p, --password [string]` | Password                               |
 | `--otp [string]`          | One-time password from your 2FA device |
 
@@ -966,3 +966,4 @@ Alias: `expo ui`
 
 </p>
 </details>
+Mohd Waseem Zafar 
